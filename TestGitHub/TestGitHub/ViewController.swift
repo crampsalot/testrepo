@@ -41,6 +41,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     func imagePickerControllerDidCancel(picker: UIImagePickerController) {
         dismissViewControllerAnimated(true, completion: nil)
+        
     }
     
     /*
