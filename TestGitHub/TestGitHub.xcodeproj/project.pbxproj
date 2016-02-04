@@ -400,6 +400,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TestGitHub/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.crampsalot.TestGitHub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -411,6 +412,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TestGitHub/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.crampsalot.TestGitHub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -484,6 +486,7 @@
 				4ACB2FB81C634E3900E150DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4ACB2FB91C634E3900E150DB /* Build configuration list for PBXNativeTarget "TestGitHubTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				4ACB2FBB1C634E3900E150DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4ACB2FBC1C634E3900E150DB /* Build configuration list for PBXNativeTarget "TestGitHubUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				4ACB2FBE1C634E3900E150DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
